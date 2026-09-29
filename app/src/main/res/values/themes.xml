@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Myraa" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#06060C</item>
+        <item name="android:statusBarColor">#06060C</item>
+        <item name="android:navigationBarColor">#06060C</item>
+    </style>
+</resources>
